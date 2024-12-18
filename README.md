@@ -4,18 +4,32 @@
 
 <div align="center">
 
-[![Git](https://img.shields.io/badge/Learning%20Git-Repository%201-4B49AC)](https://github.com/username/repo1)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/1️⃣%20Git%20Basics-Learn%20Version%20Control-22272E?style=for-the-badge&logo=git" alt="Git" />
+</a>
 
-[![Docker](https://img.shields.io/badge/Learning%20Docker-Repository%202-4B49AC)](https://github.com/username/repo2)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/2️⃣%20Docker-Container%20Development-22272E?style=for-the-badge&logo=docker" alt="Docker" />
+</a>
 
-[![Lab 3](https://img.shields.io/badge/Repository%203-Basic%20Lab-4B49AC)](https://github.com/username/repo3)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/3️⃣%20Coordinate%20Systems-Transformation%20Implementation-22272E?style=for-the-badge&logo=github" alt="Lab 3" />
+</a>
 
-[![Radar](https://img.shields.io/badge/Repository%204-Radar-4B49AC)](https://github.com/username/repo4)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/4️⃣%20Radar%20Visualization-Measurement%20Application-22272E?style=for-the-badge&logo=github" alt="Lab 4" />
+</a>
 
-[![GPS](https://img.shields.io/badge/Repository%205-GPS-4B49AC)](https://github.com/username/repo5)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/5️⃣%20GPS%20Visualization-Measurement%20Application-22272E?style=for-the-badge&logo=github" alt="Lab 5" />
+</a>
 
-[![Loran](https://img.shields.io/badge/Repository%206-Loran-4B49AC)](https://github.com/username/repo6)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/6️⃣%20LORAN%20Visualization-Measurement%20Application-22272E?style=for-the-badge&logo=github" alt="Lab 6" />
+</a>
 
-[![Kalmana](https://img.shields.io/badge/Repository%207-Filter%20Kalmana-4B49AC)](https://github.com/username/repo7)
+<a href="URL_HERE" style="text-decoration: none;">
+ <img src="https://img.shields.io/badge/7️⃣%20Kalman%20Filter-Research%20Implementation-22272E?style=for-the-badge&logo=github" alt="Lab 7" />
+</a>
 
 </div>
