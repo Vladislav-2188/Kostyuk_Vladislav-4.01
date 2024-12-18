@@ -1,16 +1,21 @@
-# Kylikovskii_Denis_IPZ-4.0.1
+# Список лабораторних робіт
+# Студента IПЗ-4.01
+# Костюка Владислава
 
-[Learning Git](#) | [Learning Docker](#) | [Lab 3](#) | [Lab 4 Radar](#) | [Lab 5 GPS](#) | [Lab 6 Loran](#) | [Lab 7 Filter Kalmana](#)
-
-<!-- Вариант с бейджами в строку -->
 <div align="center">
- 
-[![Git](https://img.shields.io/badge/1-Learning%20Git-blue)](#)
-[![Docker](https://img.shields.io/badge/2-Learning%20Docker-blue)](#)
-[![Lab 3](https://img.shields.io/badge/3-Basic%20Lab-blue)](#)
-[![Radar](https://img.shields.io/badge/4-Radar-blue)](#)
-[![GPS](https://img.shields.io/badge/5-GPS-blue)](#)
-[![Loran](https://img.shields.io/badge/6-Loran-blue)](#)
-[![Kalmana](https://img.shields.io/badge/7-Filter%20Kalmana-blue)](#)
+
+[![Git](https://img.shields.io/badge/Learning%20Git-Repository%201-4B49AC)](https://github.com/username/repo1)
+
+[![Docker](https://img.shields.io/badge/Learning%20Docker-Repository%202-4B49AC)](https://github.com/username/repo2)
+
+[![Lab 3](https://img.shields.io/badge/Repository%203-Basic%20Lab-4B49AC)](https://github.com/username/repo3)
+
+[![Radar](https://img.shields.io/badge/Repository%204-Radar-4B49AC)](https://github.com/username/repo4)
+
+[![GPS](https://img.shields.io/badge/Repository%205-GPS-4B49AC)](https://github.com/username/repo5)
+
+[![Loran](https://img.shields.io/badge/Repository%206-Loran-4B49AC)](https://github.com/username/repo6)
+
+[![Kalmana](https://img.shields.io/badge/Repository%207-Filter%20Kalmana-4B49AC)](https://github.com/username/repo7)
 
 </div>
