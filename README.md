@@ -2,30 +2,16 @@
 # Студента IПЗ-4.01
 # Костюка Владислава
 
-1. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/Git%20Basics-Learn%20Version%20Control-22272E?style=for-the-badge" alt="Git" />
-</a>
+▫️ [![Git Basics](https://img.shields.io/badge/Git%20Basics-Learn%20Version%20Control-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-1.git)
 
-2. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/Docker-Container%20Development-22272E?style=for-the-badge" alt="Docker" />
-</a>
+▫️ [![Docker](https://img.shields.io/badge/Docker-Container%20Development-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-2.git)
 
-3. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/Coordinate%20Systems-Transformation%20Implementation-22272E?style=for-the-badge" alt="Lab 3" />
-</a>
+▫️ [![Coordinate Systems](https://img.shields.io/badge/Coordinate%20Systems-Transformation%20Implementation-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-3.git)
 
-4. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/Radar%20Visualization-Measurement%20Application-22272E?style=for-the-badge" alt="Lab 4" />
-</a>
+▫️ [![Radar](https://img.shields.io/badge/Radar%20Visualization-Measurement%20Application-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-4.git)
 
-5. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/GPS%20Visualization-Measurement%20Application-22272E?style=for-the-badge" alt="Lab 5" />
-</a>
+▫️ [![GPS](https://img.shields.io/badge/GPS%20Visualization-Measurement%20Application-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-5.git)
 
-6. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/LORAN%20Visualization-Measurement%20Application-22272E?style=for-the-badge" alt="Lab 6" />
-</a>
+▫️ [![LORAN](https://img.shields.io/badge/LORAN%20Visualization-Measurement%20Application-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-6.git)
 
-7. <a href="URL_HERE">
- <img src="https://img.shields.io/badge/Kalman%20Filter-Research%20Implementation-22272E?style=for-the-badge" alt="Lab 7" />
-</a>
+▫️ [![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-Research%20Implementation-22272E?style=for-the-badge)](https://github.com/Vladislav-2188/LabWork-7.git)
